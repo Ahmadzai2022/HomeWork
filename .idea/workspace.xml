@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d594282-abfa-4428-8986-6a8cab9640bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task1HW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestTask1.java" afterDir="false" />
+    <list default="true" id="8d594282-abfa-4428-8986-6a8cab9640bf" name="Changes" comment="task one of exercise no 2">
+      <change afterPath="$PROJECT_DIR$/src/TaskTwo/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTwo/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTwo/Marks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTwo/TestClassAandB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GSqIldWAFXBHoHwIKhpXQfHsdS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,7 +46,20 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestClassAandB">
+    <configuration name="TestClassAandB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskTwo.TestClassAandB" />
+      <module name="Task1HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TaskTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestTask1" />
       <module name="Task1HW" />
@@ -59,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestClassAandB" />
         <item itemvalue="Application.TestTask1" />
       </list>
     </recent_temporary>
@@ -72,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666392256502</updated>
     </task>
+    <task id="LOCAL-00001" summary="task one of exercise no 2">
+      <created>1666467161254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666467161254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task one of exercise no 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="task one of exercise no 2" />
   </component>
 </project>
